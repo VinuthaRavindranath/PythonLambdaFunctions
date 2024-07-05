@@ -1,0 +1,18 @@
+What is a Lambda Function?
+Lambda functions are similar to user-defined functions but without a name. They're commonly referred to as anonymous functions.
+
+Lambda functions are efficient whenever you want to create a function that will only contain simple expressions – that is,
+ expressions that are usually a single line of a statement.
+
+How to Define a Lambda Function
+You can define a lambda function like this:
+
+SYNTAX
+lambda argument(s) : expression
+
+lambda is a keyword in Python for defining the anonymous function.
+
+argument(s) is a placeholder, that is a variable that will be used to hold the value you want to pass into the function expression. 
+A lambda function can have multiple variables depending on what you want to achieve.
+
+expression is the code you want to execute in the lambda function.
