@@ -6,5 +6,6 @@ https://www.freecodecamp.org/news/python-lambda-function-explained/
 
 https://medium.com/@benjamin.BA/pure-functions-vs-impure-functions-in-python-b2f009664ee4
 
+https://datagy.io/python-map/
 
-
+https://datagy.io/python-filter/
