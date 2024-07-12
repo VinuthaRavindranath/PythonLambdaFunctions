@@ -9,3 +9,5 @@ https://medium.com/@benjamin.BA/pure-functions-vs-impure-functions-in-python-b2f
 https://datagy.io/python-map/
 
 https://datagy.io/python-filter/
+
+https://datagy.io/python-reduce/
